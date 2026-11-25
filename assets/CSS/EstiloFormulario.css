@@ -4,7 +4,7 @@
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 body{
-    background-color:rgb(176, 223, 238) ;
+    background-color:rgb(198, 176, 238) ;
     display:flex;
     justify-content: center;
     align-items: center;
@@ -12,7 +12,7 @@ body{
     padding: 20px;
 }
 h2{
-    color:rgb(1, 89, 124);
+    color:rgb(103, 1, 124);
     margin-bottom: 20px;
     font-size:50px;
     text-align: center;
@@ -51,7 +51,7 @@ input:focus, select:focus{
     box-shadow: 0 0 0 3px rgba(209, 19, 138, 0.2);
 }
 .Contenedor-Formulario{
-    background-color:aqua; /*color de fondo*/
+    background-color:rgb(153, 0, 255); /*color de fondo*/
     padding: 30px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(247, 56, 56, 0.1); /*sombra para darle profundidad al contenedor*/

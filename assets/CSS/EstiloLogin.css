@@ -4,7 +4,7 @@
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 body{
-    background-color:rgb(147, 203, 240); /*Color de fondo*/
+    background-color:rgb(231, 147, 240); /*Color de fondo*/
     display:flex;
     justify-content: center;
     align-items: center;
@@ -12,7 +12,7 @@ body{
     padding: 20px;
 }
 h2{
-    color:rgb(63, 113, 189);
+    color:rgb(117, 27, 219);
     margin-bottom: 20px;
     font-size:50px;
     text-align: center;
@@ -21,7 +21,7 @@ h2{
 
 }
 .Container-Login{
-    background-color:rgb(108, 197, 238); /*Color de fondo de la tarjeta*/
+    background-color:rgb(207, 135, 246); /*Color de fondo de la tarjeta*/
     padding: 30px;
     border-radius: 8%;
     box-shadow: 0 0 10px rgba(55, 221, 63, 0.1); /*Sombra para darle profundidad al contenedo*/
